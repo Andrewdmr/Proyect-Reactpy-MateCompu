@@ -1,0 +1,34 @@
+body{
+    align-items: center;
+    place-items: center;
+    background: #232528;
+}
+div{
+    padding: 20px;
+    background: #fff;
+}
+h1{ text-align: center;}
+.matriz-table {
+    border-collapse: collapse;
+    width: 20px;
+    margin: 4px 0;
+   
+}
+
+.matriz-table th,.matriz-table td {
+    border: 2px solid #dee2e6;
+    padding: 7px 10px;
+    text-align: center;
+    min-width: 8px;
+}
+.matriz-table th {
+    background-color: #000;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+
+
