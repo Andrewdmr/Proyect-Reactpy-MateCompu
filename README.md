@@ -11,7 +11,9 @@ ejecutar la linea de comandos siguientes
 mkdir reactpy
 
 2.paso
-cd reactpy 
+```
+cd reactpy
+```
 
 3.paso
 ->para windows
