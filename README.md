@@ -42,4 +42,6 @@ luego de instalar todas las librerias copiar del github los codigos
 correspondientes, guardarlos o crtl + s
 
 --para compilar la interfaz
+```
 python main.py
+```
