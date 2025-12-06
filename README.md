@@ -1,4 +1,5 @@
-# Proyect-Reactpy-MateCompu
+# Proyect-Reactpy-MateComputacional 
+#Componentes Conexas de un grafo
 
 Abrir cmd o powerShell (recomendable)
 o visual studio code [luego ctrl + ñ]
